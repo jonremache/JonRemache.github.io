@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>MyFirstCode</title>
+<b><title>MyFirstCode</title>
 </head>
 <body>
 <h1>My First Paragraph</h1>
