@@ -7,5 +7,5 @@
 <h1>My First Paragraph</h1>
 <p>My First Paragraph</p>
 </body>
-<img src="images/download.jpg">
+<img src="images/image.webp">
 
