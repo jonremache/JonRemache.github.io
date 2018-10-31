@@ -13,5 +13,4 @@
 <div id="div5">
   </div>
   <body>
-  <h1>MMABum</h1>
-  <p><a href= "http://www.mmabum.com">MY First Paragraph</a><p>
+  <p><a href= "http://www.mmabum.com">MMABum</a><p>
