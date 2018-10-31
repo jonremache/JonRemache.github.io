@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<JonRemacheGithub.io>MyFirstCode</title>
+  <h1>JonRemacheGithub.io</h1>
 </head>
 <body>
 <h1>My First Paragraph</h1>
