@@ -4,7 +4,7 @@
   <h1>JonRemacheGithub.io</h1>
 </head>
 <body>
-<h1>My First Paragraph</h1>
+<h1>My Logo</h1>
 <p>My First Paragraph</p>
 </body>
 <img src="images/Logoo.jpg">
