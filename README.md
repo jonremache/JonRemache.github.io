@@ -5,7 +5,6 @@
 </head>
 <body>
 <h1>My Logo</h1>
-<p>My First Paragraph</p>
 </body>
 <img src="images/Logoo.jpg">
   </div>
