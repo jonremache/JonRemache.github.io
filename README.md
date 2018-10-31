@@ -7,7 +7,7 @@
 <h1>My Logo</h1>
 </body>
   <div>
-    <img src="images/logoo.jpg" width="160" height="95">
+    <img src="image/logoo.jpg" width="160" height="95">
   </div>
 <div id="div5">
   </div>
