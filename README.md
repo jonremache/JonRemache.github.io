@@ -7,7 +7,7 @@
 <h1>My First Paragraph</h1>
 <p>My First Paragraph</p>
 </body>
-<img src="images/image.webp">
+<img src="images/logoo.jpg">
   </div>
 
 <div id="div5">
