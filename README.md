@@ -6,6 +6,7 @@
 <body>
 <h1>My Logo</h1>
 </body>
+  <div>
 <img src="images/Logoo.jpg">
   </div>
 
