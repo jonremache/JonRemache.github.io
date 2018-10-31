@@ -14,4 +14,4 @@
   </div>
   <body>
   <h1>MMABum</h1>
-  <p><a href= "http:\\www.mmabum.com>
+  <p><a href= "http://www.mmabum.com">
