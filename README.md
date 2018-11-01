@@ -1,12 +1,9 @@
 <!DOCTYPE html>
   <html>
-    
-  <head
-  <title>
-  </title>
-  </head>
-  <body bgcolor="#283240">
-<html>
+  <head>
+    <title>
+      </head>
+    <body bgcolor="#329938">                  
 <head>
   <h1>JonRemacheGithub.io</h1>
 </head>
