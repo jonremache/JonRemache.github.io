@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html> 
-  
-<head>
-<title>My First Code/>
-</title>
-</head>
+
   
 <body bgcolor="#329938">                  
   
