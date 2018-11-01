@@ -13,3 +13,6 @@
   </div>
   <body>
   <p><a href= "http://www.mmabum.com">MMABum</a><p>
+    
+    <h1>Digital Zine</h1>
+    <p><a href="http://www.issuu.com/jonremache/docs/zine">Digital Zines</a><p>
