@@ -1,6 +1,6 @@
 
   
-<body bgcolor="#329938">                  
+                
   
   <h1>JonRemacheGithub.io</h1>
 </head>
@@ -8,7 +8,7 @@
 <h1>My Logo</h1>
 </body>
   <div>
-    <img src="images/Zine.pdf" width="160" height="95">
+  <p><a href="Zine.pdf">Digital Zine</a><p>
   </div>
 <div id="div5">
   </div>
