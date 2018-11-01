@@ -15,4 +15,4 @@
   <p><a href= "http://www.mmabum.com">MMABum</a><p>
     
    
-   <p><a href= "http://www.issuu.com/jonremache/docs/zine">Digital Zines</a><p>
+   <p><a href= "http://www.issuu.com/jonremache/docs/zine">Digital Zine</a><p>
