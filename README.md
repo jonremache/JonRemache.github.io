@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <h1>JonRemacheGithub.io</h1>
