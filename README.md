@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-  <html>
-  <head>
-    <title>
-      </head>
-    <body bgcolor="#329938">                  
+<html>  
+<head>
+<title> 
+</head>
+<body bgcolor="#329938">                  
 <head>
   <h1>JonRemacheGithub.io</h1>
 </head>
