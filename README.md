@@ -1,11 +1,11 @@
 <DOCTYPE html>
   <html>
     
-    <head>
-    <title>
-    </title>
-    </head>
-    <body bgcolor=#283240">
+  <head
+  <title>
+  </title>
+  </head>
+  <body bgcolor="#283240">
 <html>
 <head>
   <h1>JonRemacheGithub.io</h1>
