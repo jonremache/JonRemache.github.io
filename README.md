@@ -3,6 +3,7 @@
                 
   
   <h1>JonRemacheGithub.io</h1>
+  <body bgcolor="#329938">  
 
 <body>
   <h1>Alter Ego</h1>
