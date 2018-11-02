@@ -18,6 +18,7 @@
     
    
    <p><a href= "http://www.issuu.com/jonremache/docs/zine">Digital Zine</a><p>
+  
  <img src="images/introtomedia2.jpg">
 <!DOCTYPE html>
 <html>
