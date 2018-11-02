@@ -21,8 +21,7 @@
     
    
    <p><a href= "http://www.issuu.com/jonremache/docs/zine">Digital Zine</a><p>
-  
- <img src="images/Zine.jpg">
+<p><a href= Zine.pdf">Zine 2</a></p>
 <!DOCTYPE html>
 <html>
 <body>
