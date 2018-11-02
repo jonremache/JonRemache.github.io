@@ -3,7 +3,7 @@
                 
   
   <h1>JonRemacheGithub.io</h1>
-</head>
+
 <body>
   <h1>Alter Ego</h1>
   <img src="images/introtomedia2.jpg">
