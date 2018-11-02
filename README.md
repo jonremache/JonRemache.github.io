@@ -8,7 +8,7 @@
 <h1>My Logo</h1>
 </body>
   <div>
-  <p><a href="Zine.pdf">Digital Zine</a><p>
+  <p><a href="Zine.jpg">Digital Zine</a><p>
   </div>
 <div id="div5">
   </div>
