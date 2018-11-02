@@ -9,7 +9,7 @@
   <img src="images/introtomedia2.jpg">
   
 <h1>My Logo</h1>
-<img src="images/logoo.jpg">
+<img src="images/Logoo.jpg">
 </body>
   <div>
  
@@ -22,7 +22,7 @@
    
    <p><a href= "http://www.issuu.com/jonremache/docs/zine">Digital Zine</a><p>
   
- <img src="images/introtomedia2.jpg">
+ <img src="images/Zine.pdf">
 <!DOCTYPE html>
 <html>
 <body>
