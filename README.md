@@ -23,7 +23,7 @@
    
    <p><a href= "http://www.issuu.com/jonremache/docs/zine">Digital Zine</a><p>
   
- <img src="images/Zine.pdf">
+ <img src="images/Zine.jpg">
 <!DOCTYPE html>
 <html>
 <body>
