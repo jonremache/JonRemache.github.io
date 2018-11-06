@@ -5,10 +5,12 @@
 <title>My First Code/>
 </title>
 </head>
+
 <body bgcolor="#071618">
 <h1>My First Heading</h1>
 <p>My First Paragraph</p>
 <img src="images/Logoo.jpg" alt="Logo">
+  
 </body>  
 </html>                
   
