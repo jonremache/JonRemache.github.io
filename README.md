@@ -3,9 +3,11 @@
 
 
 
-<body>
+  
   <h1>Alter Ego</h1>
+  <div>
   <img src="introtomedia2.jpg">
+  </div>
   
   
   
