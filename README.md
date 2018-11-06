@@ -1,6 +1,5 @@
-          
-  
-  <h1>JonRemacheGithub.io</h1>
+<body bgcolor="#12282B">       
+<h1>JonRemacheGithub.io</h1>
 
 <body>
   <h1>Alter Ego</h1>
@@ -26,4 +25,4 @@
 <h1>Digital Zine Description</h1>
 
 <p> This digital zine is a representative of the harshest perceptions many have when they think about mixed martial arts competition. My goal was to try and manipulate photos of fighters in adversity in an effort to make it more appealing to the eye.</p>
- <body bgcolor="#329938">  
+ 
