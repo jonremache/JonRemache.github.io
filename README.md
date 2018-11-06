@@ -12,7 +12,7 @@
 <h1>My Logo</h1>
 
 <div>
-<img src="images/Logoo.jpg">
+<img src="Logoo.jpg">
 </div>  
 
 
