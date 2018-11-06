@@ -4,19 +4,15 @@
 
 <body>
   <h1>Alter Ego</h1>
-  <img src="images/master/introtomedia2.jpg">
+  <img src="images/introtomedia2.jpg">
   
 <h1>My Logo</h1>
-<img src="images/master/Logoo.jpg">
+<img src="images/Logoo.jpg">
 
 
 
-</body>
-  <div>
- 
-  </div>
-<div id="div5">
-  </div>
+
+
   <body>
   <p><a href= "http://www.mmabum.com">MMABum</a><p>
     
