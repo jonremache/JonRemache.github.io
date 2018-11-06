@@ -23,7 +23,7 @@
    
 <p><a href= "http://www.issuu.com/jonremache/docs/zine">Digital Zine</a><p>
 
-<!DOCTYPE html>
+
 <html>
 <body>
 <h1>Digital Zine Description</h1>
