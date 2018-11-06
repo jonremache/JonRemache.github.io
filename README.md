@@ -10,7 +10,10 @@
   
   
 <h1>My Logo</h1>
+
+<div>
 <img src="images/Logoo.jpg">
+</div>  
 
 
 
@@ -29,4 +32,11 @@
 <h1>Digital Zine Description</h1>
 
 <p> This digital zine is a representative of the harshest perceptions many have when they think about mixed martial arts competition. My goal was to try and manipulate photos of fighters in adversity in an effort to make it more appealing to the eye.</p>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
