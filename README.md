@@ -26,7 +26,7 @@
    
 <p><a href= "http://www.issuu.com/jonremache/docs/zine">Digital Zine</a><p>
   
-  <embed src="file_Zine.pdf" width="800px" height="2100px" />
+  <embed src="Zine.pdf" width="800px" height="2100px" />
 
 
 <html>
