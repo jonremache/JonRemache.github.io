@@ -1,10 +1,13 @@
 <body bgcolor="#12282B">       
 
-<h1>JonRemacheGithub.io</h1>
+
+
 
 <body>
   <h1>Alter Ego</h1>
   <img src="images/introtomedia2.jpg">
+  
+  
   
 <h1>My Logo</h1>
 <img src="images/Logoo.jpg">
@@ -15,6 +18,7 @@
 
   <body>
   <p><a href= "http://www.mmabum.com">MMABum</a><p>
+  
     
    
 <p><a href= "http://www.issuu.com/jonremache/docs/zine">Digital Zine</a><p>
