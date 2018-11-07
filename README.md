@@ -7,7 +7,7 @@
 <h1>Alter Ego</h1>
 
 <div>
-<img src="introtomedia2.jpg" width="95" height="160">
+<img src="introtomedia2.jpg">
 </div>
   
   
@@ -15,7 +15,7 @@
 <h1>My Logo</h1>
 
 <div>
-<img src="Logoo.jpg" width="95" height="160">
+<img src="Logoo.jpg">
 </div>  
 
 
