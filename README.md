@@ -7,7 +7,7 @@
 <h1>Alter Ego</h1>
 
 <div>
-<img src="introtomedia2.jpg">
+<img src="Introtomedia2.jpg">
 </div>
   
   
